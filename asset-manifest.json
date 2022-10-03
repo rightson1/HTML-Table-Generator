@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HTML-Table-Generator/static/css/main.5b24fdef.css",
+    "main.js": "/HTML-Table-Generator/static/js/main.869cb832.js",
+    "static/media/avatar.png": "/HTML-Table-Generator/static/media/avatar.3342c77494501d81d6de.png",
+    "static/media/blob.png": "/HTML-Table-Generator/static/media/blob.294fab2a4abc6be915eb.png",
+    "index.html": "/HTML-Table-Generator/index.html",
+    "main.5b24fdef.css.map": "/HTML-Table-Generator/static/css/main.5b24fdef.css.map",
+    "main.869cb832.js.map": "/HTML-Table-Generator/static/js/main.869cb832.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b24fdef.css",
+    "static/js/main.869cb832.js"
+  ]
+}
